@@ -20,7 +20,7 @@ ax.add_patch(patches.Polygon(path))
 
 plt.xlim([-1, 1])
 plt.ylim([-1, 1])
-  
 plt.show()
 
-#test
+# def generatequadrilateralwithtwotriangle(t1,t2):
+#     return
