@@ -87,6 +87,7 @@ def isequilateral(a,b,c):
 a=longueur de ab
 b=longueur de bc
 c=longueur de ca
+mymy test
 '''
 
 def isrectangle(a,b,c):
